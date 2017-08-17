@@ -1,0 +1,2 @@
+aqui devem ser colocados os arquivos de entrada (lidos) 
+somente serão lidos os .dat
