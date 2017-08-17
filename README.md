@@ -1,8 +1,10 @@
 Monitoramento de diertorio
 
 Programinha: "BATCH"
-Fica "escutando" um diretorio, casa apareÁa um arquivo ".dat", 
-consome e gera um relatÛrio (.proc) em outro diretorio.
+Fica "escutando" um diretorio, casa apare√ßa um arquivo ".dat", 
+consome e gera um relat√≥rio (.proc) em outro diretorio.
+
+** para teste deve ser colocado no diret√≥rio "in" localizado no projeto em:
 
 Ide:  Intellig
 
