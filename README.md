@@ -4,7 +4,7 @@ Programinha: "BATCH"
 Fica "escutando" um diretorio, casa apareça um arquivo ".dat", 
 consome e gera um relatório (.proc) em outro diretorio.
 
-** para teste deve ser colocado no diretório "in" localizado no projeto em:
+** para teste de leitura de arquivos .dat, deve ser colocado no diretório "in" localizado no projeto em: "src/main/resources/dados/"
 
 Ide:  Intellig
 
