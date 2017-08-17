@@ -1,5 +1,6 @@
 Monitoramento de diertorio
 
+Programinha: "BATCH"
 Fica "escutando" um diretorio, casa apareça um arquivo ".dat", 
 consome e gera um relatório (.proc) em outro diretorio.
 
@@ -20,3 +21,7 @@ Click Browse repositories...
 Choose Lombok Plugin
 Install
 Restart IntelliJ
+
+...............
+gradlew build && java -jar build/libs/batch-0.1.0.jar
+./gradlew build && java -jar build/libs/batch-0.1.0.jar
